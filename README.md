@@ -1,2 +1,11 @@
-# analise-interface-shopee
-Atividade de Front-end: Análise crítica e reconstrução de interface usando HTML5 e CSS3.
+# Atividade de Análise de Interface - Faculdade Projeção
+
+Este projeto consiste em uma análise crítica da interface da Shopee, focando em Design Limpo e experiência do usuário (UX).
+
+## 🛠 Tecnologias utilizadas:
+- HTML5 (Estrutura semântica)
+- CSS3 (Estilização e Box Model)
+- Visual Studio Code
+
+## 📸 Resultado:
+![Print do Projeto](Trabalho HTML.png)
