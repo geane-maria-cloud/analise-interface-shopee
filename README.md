@@ -8,4 +8,4 @@ Este projeto consiste em uma análise crítica da interface da Shopee, focando e
 - Visual Studio Code
 
 ## 📸 Resultado:
-![Print do Projeto](Trabalho HTML.png)
+![Resultado](Trabalho HTML..png)
